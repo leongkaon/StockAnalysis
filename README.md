@@ -1,0 +1,2 @@
+# StockAnalysis
+just for fun
