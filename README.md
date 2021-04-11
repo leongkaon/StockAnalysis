@@ -14,8 +14,8 @@ Description:
 
 -----------------------------------------------------------------
 
-# Question2 
-Date: 20210411 
+# Question2  
+Date: 20210411  
 Description:  
 經yahoo finance取得此刻股價。用Python　BeautifulSoup套件，加少少CSS知識。
 唔難，但係唔熟，撞左成個下晝。之後會試時間，例如每十分鐘迴圈一次，然後IFTTT連LINE，當升跌幅度唔對路戈陣send message比我。
