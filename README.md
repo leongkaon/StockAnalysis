@@ -21,7 +21,7 @@ Description:
 唔難，但係唔熟，撞左成個下晝。之後會試時間，例如每十分鐘迴圈一次，然後IFTTT連LINE，當升跌幅度唔對路戈陣send message比我。
 
 # Question2.1  
-Date: 20210614  　
+Date: 20210614  
 Description:  
 續上次，取得當刻股價後經IFTTT傳送至LINE。須先註冊IFTTT帳號新增Applets使用Webhooks，以POST方式傳送  
 原本幾個月前係諗住Line自動報價，但而家其實好少睇，所以而家係諗住有條件通知。升或跌某個percentage或者某個價先通知我,或者出現某種走勢型態先通知  
